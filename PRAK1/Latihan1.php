@@ -1,0 +1,4 @@
+<?php
+$a = readline(array());
+
+?>
